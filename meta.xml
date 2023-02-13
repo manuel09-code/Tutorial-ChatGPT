@@ -1,0 +1,5 @@
+<meta>
+<info author="NicolasEcm" name="Chat GPT" version="1.0" type="script" />
+	<script src="client.lua" type="client"/>
+	<script src="server.lua" type="server"/>
+</meta>
